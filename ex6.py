@@ -23,7 +23,7 @@ def main():
 
         tmr += 1
 
-        sc_x += 100
+        sc_x += 1
         if sc_x >1600:sc_x = 0
 
         print(f"scx:{sc_x}")
